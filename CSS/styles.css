@@ -1,0 +1,64 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdZYBeEyhQhK79ZJJIYACjJ76TVgGkcVN4BD0NNSnmMw&s);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(186, 185, 185);
+    font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    font-style: italic;
+}
+
+a {
+    color: rgb(195, 195, 197);
+
+}
+
+a:visited {
+    color: azure;
+
+}
+
+img {
+    border: 2px solid rgb(32, 32, 255);
+    padding: 3px;
+    margin: 5px;
+}
+
+    .rizz{ 
+        font-size: large;
+        color: rgb(59, 118, 245);
+        background-color: rgb(1, 2, 7);
+        font-style: italic;
+        text-align: center;
+
+
+    }
+
+    .rizz:hover{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: rgb(4, 82, 154);
+        font-style: italic;
+        border: none;
+        font-size: x-large;
+
+    }
+    li{
+        text-decoration: dashed;
+        
+    }
+
+   .cool{ 
+     font-size: large;
+        color: rgb(59, 118, 245);
+        background-color: rgb(1, 2, 7);
+        font-style: italic;
+        text-align: center;
+   }
+   
